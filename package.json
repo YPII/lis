@@ -1,0 +1,25 @@
+{
+  "name": "lis",
+  "version": "1.0.0",
+  "description": "YPI LIS",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YPII/lis.git"
+  },
+  "keywords": [
+    "Pathology"
+  ],
+  "author": "Sid Harder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YPII/lis/issues"
+  },
+  "homepage": "https://github.com/YPII/lis#readme"
+}
